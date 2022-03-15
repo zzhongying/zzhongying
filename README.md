@@ -1,6 +1,8 @@
-### Hi there 👋
-- 🔭 I’m currently working on Southwest University of Science and Technology
-- 📫 How to reach me: zhongying@mails.swust.edu.cn
+### Hello 👋
+- 🔭 目前我就读于西南科技大学，软件工程专业
+- 📫 联系邮箱: zhongying@mails.swust.edu.cn
+- 😄 日常爱好: 视频剪辑、绘画、看科幻电影
+- 🌱 欢迎联系我
 
 <!--
 **zzhongying/zzhongying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
