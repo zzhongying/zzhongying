@@ -1,8 +1,9 @@
 ### Hello 👋
-- 🔭 目前我就读于西南科技大学，软件工程专业
+- 🔭 目前我就读于西南科技大学，软件工程专业，对前端、安全数据分析、数据可视化感兴趣
 - 📫 联系邮箱: zhongying@mails.swust.edu.cn
 - 😄 日常爱好: 绘画、视频剪辑、看科幻电影
 - 🌱 欢迎联系我
+
 
 <!--
 **zzhongying/zzhongying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
