@@ -1,8 +1,8 @@
 ### Hello 👋
-- 🔭 目前我就读于软件工程专业
-- 😄 对前端、安全数据分析、数据可视化感兴趣
-- 📫 联系邮箱: zhongying@mails.swust.edu.cn
-- 🌱 欢迎联系我
+- 🔭 My major is software engineering
+- 😄 I am interested in security data analysis, data visualization and front-end technology
+- 📫 Emali: zhongying@mails.swust.edu.cn
+
 
 
 <!--
