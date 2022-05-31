@@ -2,9 +2,12 @@
 - 🔭 My major is software engineering
 - 😄 I am interested in security data analysis, data visualization and front-end technology
 - 📫 Emali: zhongying@mails.swust.edu.cn
+- 
+![Metrics](https://metrics.lecoq.io/zzhongying?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzhongying&layout=compact)](https://github.com/zzhongying/github-readme-stats)
 
 
-
+<!-- ![Visitor Count](https://profile-counter.glitch.me/zzhongying/count.svg) -->
 <!--
 **zzhongying/zzhongying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
