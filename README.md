@@ -2,7 +2,8 @@
 
 ![Metrics](https://metrics.lecoq.io/zzhongying?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
 
-<img src="https://github.com/zzhongying/zzhongying/blob/4b70b5c07815a90f96d716458332016793ad4bdc/img/skill1.png" height="25" />
+<h4> My Skill Set </h4>
+<!-- <img src="https://github.com/zzhongying/zzhongying/blob/4b70b5c07815a90f96d716458332016793ad4bdc/img/skill1.png" height="25" /> -->
 <div align="left">  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />   -->
