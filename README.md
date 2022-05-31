@@ -2,7 +2,7 @@
 
 ![Metrics](https://metrics.lecoq.io/zzhongying?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
 
-<img src="https://github.com/zzhongying/zzhongying/blob/00827f5999600cf736fca1718b79a65ef3cc681f/img/skill.png" height="30" />
+<img src="https://github.com/zzhongying/zzhongying/blob/4b70b5c07815a90f96d716458332016793ad4bdc/img/skill1.png" height="25" />
 <div align="left">  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />   -->
@@ -14,7 +14,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 </div>
+</br>
 
+ 📫 Email: zhongying@mails.swust.edu.cn & 1417104233@qq.com
+
+<!-- <img src="https://github.com/zzhongying/zzhongying/blob/1a30f689d1386929fe810964b5a638dd0334443d/img/contact.png" width="100" /> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzhongying&layout=compact)](https://github.com/zzhongying/github-readme-stats)
  -->
