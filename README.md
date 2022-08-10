@@ -1,4 +1,4 @@
-![name](https://github.com/zzhongying/zzhongying/blob/692e836142bec33194992c1e2e576dcc474e341a/img/github-header-image.png)
+# ❤Hi 👋 I'm ZhongYing!❤
 
 ![Metrics](https://metrics.lecoq.io/zzhongying?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
 
