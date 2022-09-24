@@ -1,4 +1,4 @@
-# ❤Hi 👋 I'm ZhongYing!❤
+# ❤Hi 👋 I'm YingZhong!❤
 
 ![Metrics](https://metrics.lecoq.io/zzhongying?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
 
